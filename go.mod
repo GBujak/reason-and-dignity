@@ -1,6 +1,6 @@
 module github.com/gbujak/reason-and-dignity/m/v2
 
-go 1.26.5
+go 1.27.0
 
 require (
 	github.com/danielgtaylor/huma/v2 v2.39.1
